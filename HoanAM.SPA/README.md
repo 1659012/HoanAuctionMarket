@@ -1,35 +1,24 @@
-# ASP.NET Boilerplate VueJS Template
+# hoanamspa
 
-The Vue.js integration for ABP Boilerplate framework. This template is built on Vue+iview+Typescript.
-
-![](_screenshots/roles.png)
-
-## Getting Started
-
-### Installing
-
-
-```sh
-cd vue
-yarn install 
+## Project setup
+```
+yarn install
 ```
 
-And then start
-
+### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
 
-## Deployment
-
-```sh
+### Compiles and minifies for production
+```
 yarn build
 ```
 
-## Built With
+### Lints and fixes files
+```
+yarn lint
+```
 
-* [Vue](https://vuejs.org/) - The Progressive JavaScript Framework
-* [Typescript](https://www.typescriptlang.org/) - Used for static typing
-* [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications. 
-* [iView](https://www.iviewui.com/) - A High quality and rich functions, friendly APIs, free and flexible UI Toolkit based on Vue.js.
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

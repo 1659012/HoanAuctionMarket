@@ -1,0 +1,208 @@
+DEBUG 2020-03-24 15:48:37,370 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-03-24 15:48:37,527 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-03-24 15:48:37,545 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: HoanAM.Web.Host.Startup.HoanAMWebHostModule, HoanAM.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,546 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: HoanAM.HoanAMWebCoreModule, HoanAM.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: HoanAM.HoanAMApplicationModule, HoanAM.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: HoanAM.HoanAMCoreModule, HoanAM.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: HoanAM.EntityFrameworkCore.HoanAMEntityFrameworkModule, HoanAM.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,549 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,550 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,550 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,550 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,550 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.2.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:37,554 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-03-24 15:48:37,631 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-03-24 15:48:37,631 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-03-24 15:48:37,631 [1    ] o.Configuration.LanguageManagementConfig - Converted HoanAM (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-03-24 15:48:37,631 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-03-24 15:48:38,049 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: HoanAM.EntityFrameworkCore.HoanAMDbContext, HoanAM.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-03-24 15:48:38,595 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-03-24 15:48:38,658 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-03-24 15:48:38,684 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-03-24 15:48:38,709 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: HoanAM
+DEBUG 2020-03-24 15:48:38,715 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-03-24 15:48:38,795 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-03-24 15:48:38,825 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[HoanAM.MultiTenancy.Tenant, HoanAM.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[HoanAM.Authorization.Users.User, HoanAM.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-03-24 15:48:38,874 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2020-03-24 15:48:38,874 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-03-24 15:48:38,883 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.Users.Dto.CreateUserDto
+DEBUG 2020-03-24 15:48:38,884 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.Users.Dto.UserDto
+DEBUG 2020-03-24 15:48:38,885 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-03-24 15:48:38,885 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-03-24 15:48:38,885 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.Roles.Dto.PermissionDto
+DEBUG 2020-03-24 15:48:38,885 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-03-24 15:48:38,886 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - HoanAM.MultiTenancy.Dto.TenantDto
+INFO  2020-03-24 15:48:42,962 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar,ja,zh-Hans
+INFO  2020-03-24 15:48:43,600 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Hoan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-03-24 15:48:43,674 [1    ] taProtection.KeyManagement.XmlKeyManager - Creating key {3c3f8634-d9ec-4b48-a22f-88c3d2fc4838} with creation date 2020-03-24 08:48:43Z, activation date 2020-03-24 08:48:43Z, and expiration date 2020-06-22 08:48:43Z.
+INFO  2020-03-24 15:48:43,690 [1    ] ion.Repositories.FileSystemXmlRepository - Writing data to file 'C:\Users\Hoan\AppData\Local\ASP.NET\DataProtection-Keys\key-3c3f8634-d9ec-4b48-a22f-88c3d2fc4838.xml'.
+INFO  2020-03-24 15:48:43,729 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-03-24 15:48:43,962 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Web.Host.Controllers.HomeController.Index (HoanAM.Web.Host)'
+INFO  2020-03-24 15:48:45,211 [9    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller HoanAM.Web.Host.Controllers.HomeController (HoanAM.Web.Host).
+INFO  2020-03-24 15:48:45,846 [11   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-03-24 15:48:45,853 [11   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Web.Host.Controllers.HomeController.Index (HoanAM.Web.Host) in 637.0318ms
+INFO  2020-03-24 15:48:45,854 [11   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Web.Host.Controllers.HomeController.Index (HoanAM.Web.Host)'
+INFO  2020-03-24 15:48:45,875 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2146.7885ms 302 
+INFO  2020-03-24 15:48:45,876 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2020-03-24 15:48:45,914 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 38.1278ms 301 
+INFO  2020-03-24 15:48:45,919 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-03-24 15:48:46,106 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 187.2995ms 200 text/html;charset=utf-8
+INFO  2020-03-24 15:48:46,157 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-03-24 15:48:46,157 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2020-03-24 15:48:46,158 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2020-03-24 15:48:46,159 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2020-03-24 15:48:46,179 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2020-03-24 15:48:46,186 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'D:\HoanAuctionMarket\HoanAM.Core\src\HoanAM.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2020-03-24 15:48:46,186 [4    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'D:\HoanAuctionMarket\HoanAM.Core\src\HoanAM.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2020-03-24 15:48:46,186 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 28.4775ms 200 application/javascript
+INFO  2020-03-24 15:48:46,186 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 27.8481ms 200 application/javascript
+INFO  2020-03-24 15:48:46,192 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2020-03-24 15:48:46,192 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2020-03-24 15:48:46,194 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 37.6402ms 200 application/javascript
+INFO  2020-03-24 15:48:46,194 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 36.346ms 200 text/css
+INFO  2020-03-24 15:48:46,196 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2020-03-24 15:48:46,196 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 17.0325ms 200 application/javascript
+INFO  2020-03-24 15:48:46,953 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-03-24 15:48:46,959 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-03-24 15:48:46,960 [11   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Web.Host.Controllers.AntiForgeryController.SetCookie (HoanAM.Web.Host)'
+INFO  2020-03-24 15:48:46,963 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2020-03-24 15:48:46,969 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2020-03-24 15:48:46,969 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 5.9673ms 200 image/png
+INFO  2020-03-24 15:48:46,990 [11   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller HoanAM.Web.Host.Controllers.AntiForgeryController (HoanAM.Web.Host).
+INFO  2020-03-24 15:48:47,026 [10   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:48:47,043 [10   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Web.Host.Controllers.AntiForgeryController.SetCookie (HoanAM.Web.Host) in 52.1653ms
+INFO  2020-03-24 15:48:47,043 [10   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Web.Host.Controllers.AntiForgeryController.SetCookie (HoanAM.Web.Host)'
+INFO  2020-03-24 15:48:47,043 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 90.3885ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:48:47,165 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 206.3012ms 200 application/json;charset=utf-8
+INFO  2020-03-24 15:51:15,663 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2020-03-24 15:51:15,670 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:51:15,672 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.1047ms 204 
+INFO  2020-03-24 15:51:15,674 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2020-03-24 15:51:15,675 [5    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:51:15,694 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2020-03-24 15:51:15,720 [5    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetAll() on controller Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController (Abp.AspNetCore).
+INFO  2020-03-24 15:51:16,174 [11   ] tonsoftJson.NewtonsoftJsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:51:16,209 [11   ] c.Infrastructure.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 488.0428ms
+INFO  2020-03-24 15:51:16,209 [11   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2020-03-24 15:51:16,209 [11   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 535.0009ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:51:16,244 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2020-03-24 15:51:16,245 [22   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:51:16,245 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 0.7429ms 204 
+INFO  2020-03-24 15:51:16,248 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2020-03-24 15:51:16,248 [22   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:51:16,248 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application)'
+INFO  2020-03-24 15:51:16,257 [22   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing controller action with signature System.Threading.Tasks.Task`1[HoanAM.Sessions.Dto.GetCurrentLoginInformationsOutput] GetCurrentLoginInformations() on controller HoanAM.Sessions.SessionAppService (HoanAM.Application).
+INFO  2020-03-24 15:51:16,300 [22   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:51:16,307 [22   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application) in 49.7624ms
+INFO  2020-03-24 15:51:16,307 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application)'
+INFO  2020-03-24 15:51:16,308 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 60.2364ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:51:18,453 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/TokenAuth/Authenticate  
+INFO  2020-03-24 15:51:18,454 [22   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:51:18,455 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.2664ms 204 
+INFO  2020-03-24 15:51:18,457 [22   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:21021/api/TokenAuth/Authenticate application/json;charset=UTF-8 72
+INFO  2020-03-24 15:51:18,458 [22   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:51:18,461 [22   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Controllers.TokenAuthController.Authenticate (HoanAM.Web.Core)'
+INFO  2020-03-24 15:51:18,477 [22   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Authenticate", controller = "TokenAuth", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[HoanAM.Models.TokenAuth.AuthenticateResultModel] Authenticate(HoanAM.Models.TokenAuth.AuthenticateModel) on controller HoanAM.Controllers.TokenAuthController (HoanAM.Web.Core).
+WARN  2020-03-24 15:51:18,920 [5    ] Mvc.ExceptionHandling.AbpExceptionFilter - Login failed!
+Abp.UI.UserFriendlyException: Login failed!
+   at HoanAM.Controllers.TokenAuthController.GetLoginResultAsync(String usernameOrEmailAddress, String password, String tenancyName) in D:\HoanAuctionMarket\HoanAM.Core\src\HoanAM.Web.Core\Controllers\TokenAuthController.cs:line 192
+   at HoanAM.Controllers.TokenAuthController.Authenticate(AuthenticateModel model) in D:\HoanAuctionMarket\HoanAM.Core\src\HoanAM.Web.Core\Controllers\TokenAuthController.cs:line 55
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+INFO  2020-03-24 15:51:18,925 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:51:18,927 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Controllers.TokenAuthController.Authenticate (HoanAM.Web.Core) in 450.1207ms
+INFO  2020-03-24 15:51:18,927 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Controllers.TokenAuthController.Authenticate (HoanAM.Web.Core)'
+INFO  2020-03-24 15:51:18,928 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 470.9364ms 500 application/json; charset=utf-8
+INFO  2020-03-24 15:53:08,078 [28   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2020-03-24 15:53:08,079 [28   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:08,081 [28   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 3.7931ms 204 
+INFO  2020-03-24 15:53:08,085 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2020-03-24 15:53:08,085 [29   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:08,086 [29   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2020-03-24 15:53:08,096 [29   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetAll() on controller Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController (Abp.AspNetCore).
+INFO  2020-03-24 15:53:08,120 [30   ] tonsoftJson.NewtonsoftJsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:53:08,122 [30   ] c.Infrastructure.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 25.8369ms
+INFO  2020-03-24 15:53:08,122 [30   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2020-03-24 15:53:08,122 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 37.7473ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:53:08,185 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2020-03-24 15:53:08,185 [29   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:08,187 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.7589ms 204 
+INFO  2020-03-24 15:53:08,190 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2020-03-24 15:53:08,190 [29   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:08,194 [29   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application)'
+INFO  2020-03-24 15:53:08,201 [29   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing controller action with signature System.Threading.Tasks.Task`1[HoanAM.Sessions.Dto.GetCurrentLoginInformationsOutput] GetCurrentLoginInformations() on controller HoanAM.Sessions.SessionAppService (HoanAM.Application).
+INFO  2020-03-24 15:53:08,207 [29   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:53:08,208 [29   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application) in 5.9986ms
+INFO  2020-03-24 15:53:08,208 [29   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application)'
+INFO  2020-03-24 15:53:08,208 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 18.0554ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:53:12,874 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/TokenAuth/Authenticate  
+INFO  2020-03-24 15:53:12,874 [29   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:12,875 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.4876ms 204 
+INFO  2020-03-24 15:53:12,878 [29   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:21021/api/TokenAuth/Authenticate application/json;charset=UTF-8 73
+INFO  2020-03-24 15:53:12,878 [29   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:12,882 [29   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Controllers.TokenAuthController.Authenticate (HoanAM.Web.Core)'
+INFO  2020-03-24 15:53:12,887 [29   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Authenticate", controller = "TokenAuth", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[HoanAM.Models.TokenAuth.AuthenticateResultModel] Authenticate(HoanAM.Models.TokenAuth.AuthenticateModel) on controller HoanAM.Controllers.TokenAuthController (HoanAM.Web.Core).
+INFO  2020-03-24 15:53:13,202 [30   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:53:13,205 [30   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Controllers.TokenAuthController.Authenticate (HoanAM.Web.Core) in 317.0469ms
+INFO  2020-03-24 15:53:13,205 [30   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Controllers.TokenAuthController.Authenticate (HoanAM.Web.Core)'
+INFO  2020-03-24 15:53:13,205 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 327.5919ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:53:13,591 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2020-03-24 15:53:13,592 [30   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:13,594 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.7697ms 204 
+INFO  2020-03-24 15:53:13,597 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2020-03-24 15:53:13,597 [30   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:13,638 [30   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-03-24 15:53:13,784 [29   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2020-03-24 15:53:13,788 [29   ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] GetAll() on controller Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController (Abp.AspNetCore).
+INFO  2020-03-24 15:53:13,931 [27   ] tonsoftJson.NewtonsoftJsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:53:13,933 [27   ] c.Infrastructure.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 145.0299ms
+INFO  2020-03-24 15:53:13,933 [27   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)'
+INFO  2020-03-24 15:53:13,934 [27   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 336.4557ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:53:14,000 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2020-03-24 15:53:14,000 [30   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:14,001 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.0316ms 204 
+INFO  2020-03-24 15:53:14,003 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2020-03-24 15:53:14,004 [30   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:14,005 [30   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-03-24 15:53:14,020 [30   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application)'
+INFO  2020-03-24 15:53:14,026 [30   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing controller action with signature System.Threading.Tasks.Task`1[HoanAM.Sessions.Dto.GetCurrentLoginInformationsOutput] GetCurrentLoginInformations() on controller HoanAM.Sessions.SessionAppService (HoanAM.Application).
+INFO  2020-03-24 15:53:14,074 [27   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:53:14,078 [27   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application) in 51.5421ms
+INFO  2020-03-24 15:53:14,078 [27   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Sessions.SessionAppService.GetCurrentLoginInformations (HoanAM.Application)'
+INFO  2020-03-24 15:53:14,078 [27   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 74.4032ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:53:19,770 [32   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetAll?maxResultCount=10&skipCount=0  
+INFO  2020-03-24 15:53:19,771 [32   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:19,772 [32   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.3048ms 204 
+INFO  2020-03-24 15:53:19,772 [32   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2020-03-24 15:53:19,773 [32   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:19,773 [32   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.1998ms 204 
+INFO  2020-03-24 15:53:19,783 [30   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2020-03-24 15:53:19,783 [30   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:19,783 [32   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetAll?maxResultCount=10&skipCount=0  
+INFO  2020-03-24 15:53:19,783 [32   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution successful.
+INFO  2020-03-24 15:53:19,785 [32   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-03-24 15:53:19,785 [30   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-03-24 15:53:19,798 [32   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Users.UserAppService.GetAllAsync (HoanAM.Application)'
+INFO  2020-03-24 15:53:19,798 [28   ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HoanAM.Users.UserAppService.GetRoles (HoanAM.Application)'
+INFO  2020-03-24 15:53:19,807 [28   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetRoles", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.ListResultDto`1[HoanAM.Roles.Dto.RoleDto]] GetRoles() on controller HoanAM.Users.UserAppService (HoanAM.Application).
+INFO  2020-03-24 15:53:19,811 [32   ] c.Infrastructure.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Abp.Application.Services.Dto.PagedResultDto`1[HoanAM.Users.Dto.UserDto]] GetAllAsync(HoanAM.Users.Dto.PagedUserResultRequestDto) on controller HoanAM.Users.UserAppService (HoanAM.Application).
+INFO  2020-03-24 15:53:19,970 [28   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:53:19,975 [28   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Users.UserAppService.GetRoles (HoanAM.Application) in 167.947ms
+INFO  2020-03-24 15:53:19,976 [28   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Users.UserAppService.GetRoles (HoanAM.Application)'
+INFO  2020-03-24 15:53:19,976 [28   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 193.1108ms 200 application/json; charset=utf-8
+INFO  2020-03-24 15:53:20,116 [28   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-03-24 15:53:20,121 [28   ] c.Infrastructure.ControllerActionInvoker - Executed action HoanAM.Users.UserAppService.GetAllAsync (HoanAM.Application) in 310.019ms
+INFO  2020-03-24 15:53:20,121 [28   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HoanAM.Users.UserAppService.GetAllAsync (HoanAM.Application)'
+INFO  2020-03-24 15:53:20,121 [28   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 338.3143ms 200 application/json; charset=utf-8
